@@ -58,6 +58,7 @@ button:hover {
   color: #fff;
 }
 #datetime-picker {
+  box-sizing: border-box;
   border: 1px solid #808080;
   border-radius: 8px;
   width: 272px;
